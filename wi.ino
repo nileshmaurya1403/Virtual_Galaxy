@@ -45,8 +45,8 @@ char auth[] = "oHxicXHOnnSbk53_3mblPm4GVrdCOuAU";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "vivo 1951";
-char pass[] = "naruto1403";
+char ssid[] = "SSID";
+char pass[] = "Your Password";
 
 // Hardware Serial on Mega, Leonardo, Micro...
 //#define EspSerial Serial1
